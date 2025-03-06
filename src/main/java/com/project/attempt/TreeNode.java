@@ -3,7 +3,6 @@ package com.project.attempt;
 public class TreeNode {
 
     public int val;
-    public int amount;
     public TreeNode root;
     public TreeNode left;
     public TreeNode right;
